@@ -1,0 +1,13 @@
+package questions_26_50;
+
+public class App27 {
+
+    public static void main(String[] args) {
+
+        int i=10;
+        int j=20;
+        int k=j+=i/5;
+
+        System.out.println(i+":"+j+":"+k);
+    }
+}
