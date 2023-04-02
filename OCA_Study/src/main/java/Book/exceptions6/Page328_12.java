@@ -13,7 +13,7 @@ public class Page328_12 {
             System.out.print("3");
         } catch (NullPointerException e) {
             System.out.print("4");
-            throw e;
+         //   throw e;
         }
         System.out.print("5");
     }
